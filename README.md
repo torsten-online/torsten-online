@@ -6,3 +6,4 @@
 - 📫 How to reach me - <torsten@linux.schule> from [linux.schule](https://linux.schule)
 
 ![cka-certified-kubernetes-administrator](https://github.com/torsten-online/torsten-online/assets/104500235/00c3a80d-123b-4f79-8b1b-91bb8792eaf1)
+![SUSE_Certified_Rancher_Deployment_Torsten-Behrens](https://github.com/torsten-online/torsten-online/assets/104500235/3f60dfa3-0aa1-466d-ae4a-0ff1d10604e9)
