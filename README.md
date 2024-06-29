@@ -5,5 +5,5 @@
      Here you find my [Gist's](https://gist.github.com/torsten-online)
 - 📫 How to reach me - <torsten@linux.schule> from [linux.schule](https://linux.schule)
 
-![cka-certified-kubernetes-administrator](https://github.com/torsten-online/torsten-online/assets/104500235/00c3a80d-123b-4f79-8b1b-91bb8792eaf1)
+![Certified_Kubernetes_Administrator_TorstenBehrens](https://github.com/torsten-online/torsten-online/assets/104500235/50e7769f-188b-439c-94d3-e9185f2c10bf)
 ![SUSE_Certified_Rancher_Deployment_Torsten-Behrens](https://github.com/torsten-online/torsten-online/assets/104500235/3f60dfa3-0aa1-466d-ae4a-0ff1d10604e9)
